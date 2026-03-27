@@ -5,7 +5,7 @@
 
 I'm Desirea, a college student learning software development.    
 
-I am currently working on small projects to avance my knowledge in computer programming
+I am currently working on small projects to advance my knowledge in computer programming
 
 I am currently learning Python, JavaScript, CSS, and HTML
 
